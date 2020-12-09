@@ -22,7 +22,7 @@ sections:
         icon_class: ''
       - label: Twitter
         url: 'https://twitter.com/huyendoesstuff'
-        style: button
+        style: link
         icon_class: >-
           https://raw.githubusercontent.com/huyen-nguyen/huyen-nguyen/master/assets/twitter.svg
         new_window: false
