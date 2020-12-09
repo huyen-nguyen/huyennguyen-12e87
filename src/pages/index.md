@@ -23,7 +23,7 @@ sections:
       - label: lorem-ipsum
         url: lorem-ipsum
         style: icon
-        icon_class: lorem-ipsum
+        icon_class: twitter
         new_window: false
         type: action
   - section_id: latest-projects
