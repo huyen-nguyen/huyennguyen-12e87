@@ -20,13 +20,6 @@ sections:
         url: /contact
         style: button
         icon_class: ''
-      - label: Twitter
-        url: 'https://twitter.com/huyendoesstuff'
-        style: icon
-        icon_class: >-
-          https://raw.githubusercontent.com/huyen-nguyen/huyen-nguyen/master/assets/twitter.svg
-        new_window: true
-        type: action
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
