@@ -6,9 +6,9 @@ sections:
     type: section_hero
     title: 'Hi, I''m Huyen Nguyen!'
     content: >-
-      I'm a PhD student in Computer Science at Texas Tech University, doing
-      research in interactive data visualization and visual analytics. I'm a
-      member of the interactive Data Visualization Lab (iDVL).
+      ###### I'm a PhD student in Computer Science at Texas Tech University,
+      doing research in interactive data visualization and visual analytics. I'm
+      a member of the interactive Data Visualization Lab (iDVL).
 
 
       My research interests include interactive data visualization (vis) and
