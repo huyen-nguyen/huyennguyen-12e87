@@ -20,7 +20,8 @@ sections:
         url: /contact
         style: button
         icon_class: ''
-      - label: Twitter
+      - label: >-
+          https://raw.githubusercontent.com/huyen-nguyen/huyen-nguyen/master/assets/twitter.svg
         url: 'https://twitter.com/huyendoesstuff'
         style: link
         icon_class: >-
