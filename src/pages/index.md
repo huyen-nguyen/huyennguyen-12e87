@@ -23,7 +23,8 @@ sections:
       - label: Twitter
         url: 'https://twitter.com/huyendoesstuff'
         style: link
-        icon_class: ''
+        icon_class: >-
+          https://raw.githubusercontent.com/huyen-nguyen/huyen-nguyen/master/assets/twitter.svg
         new_window: false
         type: action
   - section_id: latest-projects
