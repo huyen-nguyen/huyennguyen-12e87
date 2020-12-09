@@ -25,7 +25,7 @@ sections:
         style: icon
         icon_class: >-
           https://raw.githubusercontent.com/huyen-nguyen/huyen-nguyen/master/assets/twitter.svg
-        new_window: false
+        new_window: true
         type: action
   - section_id: latest-projects
     type: section_portfolio
