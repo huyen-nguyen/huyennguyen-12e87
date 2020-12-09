@@ -6,8 +6,15 @@ sections:
     type: section_hero
     title: 'Hi, I''m Huyen Nguyen!'
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      I'm a PhD student in Computer Science at Texas Tech University, doing
+      research in interactive data visualization and visual analytics. I'm a
+      member of the interactive Data Visualization Lab (iDVL).
+
+
+      My research interests include interactive data visualization (vis) and
+      visual analytics, supporting the understanding and insight discovery of
+      quantitative and qualitative data. I'm learning to build a template for
+      event detection mechanisms in visualizing time-series data.
     actions:
       - label: Let's talk
         url: /contact
