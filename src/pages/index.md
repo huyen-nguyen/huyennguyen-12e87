@@ -21,7 +21,7 @@ sections:
         style: button
         icon_class: ''
       - label: Twitter
-        url: lorem-ipsum
+        url: 'https://twitter.com/huyendoesstuff'
         style: link
         icon_class: lorem-ipsum
         new_window: false
