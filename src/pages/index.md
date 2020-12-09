@@ -20,6 +20,12 @@ sections:
         url: /contact
         style: button
         icon_class: ''
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon_class: lorem-ipsum
+        new_window: false
+        type: action
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
