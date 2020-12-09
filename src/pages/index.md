@@ -20,7 +20,7 @@ sections:
         url: /contact
         style: button
         icon_class: ''
-      - label: lorem-ipsum
+      - label: Twitter
         url: lorem-ipsum
         style: link
         icon_class: lorem-ipsum
