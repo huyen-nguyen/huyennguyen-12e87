@@ -23,7 +23,7 @@ sections:
       - label: Twitter
         url: 'https://twitter.com/huyendoesstuff'
         style: link
-        icon_class: lorem-ipsum
+        icon_class: ''
         new_window: false
         type: action
   - section_id: latest-projects
